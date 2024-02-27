@@ -1,0 +1,11 @@
+.my-custom-button { /* estilo para cuadro de textos mi cuenta*/
+background-color: #7abd30; /* Cambia al color que desees */
+color: #dee5dc; /* Color del texto */
+border-radius: 20px; /* Radio de borde */
+padding: 10px 20px; /* Relleno */
+font-size: 16px; /* Tamaño de la fuente */
+  /* Otros estilos personalizados que desees aplicar */
+  }
+.my-navbar {
+    background-color: #dce4dc;
+}
